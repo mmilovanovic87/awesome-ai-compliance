@@ -15,7 +15,7 @@ Thank you for helping maintain this list.
 ## Pull Request Process
 
 1. Fork the repository.
-2. Create a branch: `git checkout -b add/resource-name`
+2. Create a branch: `Git checkout -b add/resource-name`
 3. Make your changes to README.md.
 4. Open a pull request with a brief description of what you added and why.
 
