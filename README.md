@@ -21,7 +21,6 @@ Associate Professor, University of Niš · 50+ papers on AI systems.
 - [Learning Resources](#learning-resources)
 - [Newsletters and Communities](#newsletters-and-communities)
 - [Conferences and Events](#conferences-and-events)
-- [Contributing](#contributing)
 
 ---
 
