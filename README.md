@@ -52,7 +52,7 @@ Associate Professor, University of Niš · 50+ papers on AI systems.
   Includes GitHub Action for CI/CD compliance checks. Free, no login.
   [![GitHub](https://img.shields.io/github/stars/mmilovanovic87/gapsight?style=flat)](https://github.com/mmilovanovic87/gapsight)
 - [VerifyWise](https://github.com/bluewave-labs/verifywise) - Open-source AI governance platform covering EU AI Act, ISO 42001, NIST AI RMF.
-- [FRAI](https://frai.cc) - AI compliance checks with git pre-commit hooks.
+- [FRAI](https://frai.cc) - AI compliance checks with Git pre-commit hooks.
 
 ---
 
