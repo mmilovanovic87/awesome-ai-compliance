@@ -35,9 +35,9 @@ Associate Professor, University of Niš · 50+ papers on AI systems.
 
 ### NIST AI RMF
 - [NIST AI RMF 1.0](https://airc.nist.gov/RMF) - Official Risk Management Framework.
-- [NIST AI RMF Playbook]. - Implementation guidance.
-- [NIST AI RMF Quick Start Guide] - Condensed onboarding.
-- [AI RMF Crosswalk] - Mapping to other frameworks.
+- [NIST AI RMF Playbook](https://airc.nist.gov/Playbook). - Implementation guidance.
+- [NIST AI RMF Quick Start Guide](https://airc.nist.gov/Quick-Start-Guides) - Condensed onboarding.
+- [AI RMF Crosswalk](https://airc.nist.gov/Docs/2) - Mapping to other frameworks.
 
 ### ISO/IEC 42001
 - [ISO 42001 Overview](https://www.iso.org/standard/81230.html) - AI Management System standard.
