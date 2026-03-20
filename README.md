@@ -35,9 +35,9 @@ Associate Professor, University of Niš · 50+ papers on AI systems.
 
 ### NIST AI RMF
 - [NIST AI RMF 1.0](https://airc.nist.gov/RMF) - Official Risk Management Framework.
-- [NIST AI RMF Playbook](https://airc.nist.gov/Docs/2) - Implementation guidance.
-- [NIST AI RMF Quick Start Guide](https://airc.nist.gov/Docs/2) - Condensed onboarding.
-- [AI RMF Crosswalk](https://airc.nist.gov/Docs/2) - Mapping to other frameworks.
+- [NIST AI RMF Playbook]. - Implementation guidance.
+- [NIST AI RMF Quick Start Guide] - Condensed onboarding.
+- [AI RMF Crosswalk] - Mapping to other frameworks.
 
 ### ISO/IEC 42001
 - [ISO 42001 Overview](https://www.iso.org/standard/81230.html) - AI Management System standard.
@@ -51,7 +51,6 @@ Associate Professor, University of Niš · 50+ papers on AI systems.
   Maps ML metrics to EU AI Act, NIST AI RMF, and ISO 42001 gaps.
   Includes GitHub Action for CI/CD compliance checks. Free, no login.
   [![GitHub](https://img.shields.io/github/stars/mmilovanovic87/gapsight?style=flat)](https://github.com/mmilovanovic87/gapsight)
-- [EU AI Act Compliance Checker](https://artificialintelligenceact.eu/assessment/eu-ai-act-compliance-checker/) - Official wizard for risk classification.
 - [VerifyWise](https://github.com/bluewave-labs/verifywise) - Open-source AI governance platform covering EU AI Act, ISO 42001, NIST AI RMF.
 - [FRAI](https://frai.cc) - AI compliance checks with git pre-commit hooks.
 
