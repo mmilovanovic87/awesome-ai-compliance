@@ -6,7 +6,7 @@
 Covers: **EU AI Act · NIST AI RMF · ISO/IEC 42001 · GPAI · SOC 2 AI · IEEE standards**
 
 Maintained by [@mmilovanovic87](https://github.com/mmilovanovic87) —
-Associate Professor, University of Niš · 50+ IEEE papers on AI systems.
+Associate Professor, University of Niš · 50+ papers on AI systems.
 
 ---
 
