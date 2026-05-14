@@ -60,6 +60,7 @@ Associate Professor, University of Niš · 50+ papers on AI systems.
 
 - [GapSight GitHub Action](https://github.com/mmilovanovic87/gapsight) - Run EU AI Act / NIST AI RMF / ISO 42001 compliance checks in CI/CD pipelines. Generates compliance artifacts alongside test results.
 - [Systima Comply](https://dev.to/systima/open-source-eu-ai-act-compliance-scanning-for-cicd-4ogj) - Open-source EU AI Act scanner with AST-based detection of 37+ ML frameworks.
+- [PRML / prml-verify-action](https://github.com/studio-11-co/prml-verify-action) - GitHub Action that verifies cryptographic pre-registration of ML evaluation claims in CI. Open spec (CC BY 4.0) at [spec.falsify.dev/v0.1](https://spec.falsify.dev/v0.1); commits threshold + metric + dataset + model + run protocol to SHA-256 hash before the run, blocks merges on tampered or regressed claims. Direct mapping to EU AI Act Article 12 (logging), NIST AI 600-1 MEASURE, and ISO/IEC 42001 audit trail. JSON Schema in SchemaStore catalog; citable DOI [10.5281/zenodo.20177839](https://doi.org/10.5281/zenodo.20177839). Free, MIT-licensed.
 
 ---
 
