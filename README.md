@@ -60,6 +60,7 @@ Associate Professor, University of Niš · 50+ papers on AI systems.
 
 - [GapSight GitHub Action](https://github.com/mmilovanovic87/gapsight) - Run EU AI Act / NIST AI RMF / ISO 42001 compliance checks in CI/CD pipelines. Generates compliance artifacts alongside test results.
 - [Systima Comply](https://dev.to/systima/open-source-eu-ai-act-compliance-scanning-for-cicd-4ogj) - Open-source EU AI Act scanner with AST-based detection of 37+ ML frameworks.
+- [heygrc](https://heygrc.com) - GitHub App that reviews pull requests against compliance frameworks (ISO 27001, SOC 2, GDPR, EU AI Act, and more), cites the control, and says what to fix. Public repositories always free. By ISMS Copilot.
 
 ---
 
