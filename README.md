@@ -53,6 +53,7 @@ Associate Professor, University of Niš · 50+ papers on AI systems.
   [![GitHub](https://img.shields.io/github/stars/mmilovanovic87/gapsight?style=flat)](https://github.com/mmilovanovic87/gapsight)
 - [VerifyWise](https://github.com/bluewave-labs/verifywise) - Open-source AI governance platform covering EU AI Act, ISO 42001, NIST AI RMF.
 - [FRAI](https://frai.cc) - AI compliance checks with Git pre-commit hooks.
+- [ISMS Copilot free tools](https://www.ismscopilot.com/resources) - Browser-based EU AI Act risk checker, ISO 42001 readiness checker, and other framework applicability tools. Free, no install.
 
 ---
 
@@ -70,6 +71,7 @@ Associate Professor, University of Niš · 50+ papers on AI systems.
 - [Regulativ.ai](https://regulativ.ai) - Supports 40+ compliance frameworks.
 - [Aikido Security](https://aikido.dev) - Developer-first security and compliance, includes AI system checks.
 - [Enzai](https://enzai.ai) - Pre-built EU AI Act policy packs and audit workflows.
+- [ISMS Copilot](https://www.ismscopilot.com/) - Specialized AI assistant for ISO 42001, EU AI Act, ISO 27001, and related frameworks: policy drafting, gap analysis, control mapping. Optional EU-region AI mode.
 
 ---
 
