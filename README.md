@@ -69,6 +69,7 @@ Associate Professor, University of Niš · 50+ papers on AI systems.
 - [Credo AI](https://credo.ai) - AI governance platform with policy packs and risk scoring.
 - [Regulativ.ai](https://regulativ.ai) - Supports 40+ compliance frameworks.
 - [Aikido Security](https://aikido.dev) - Developer-first security and compliance, includes AI system checks.
+- [Allowly Hiring Evidence](https://allowly.ai/docs/solutions/hiring/) - Deterministic policy runner for AI-assisted employment screening that records reviews and corrections and exports Hiring Decision Packs with signed records. Free core plan: 1 active item and 1,000 lifetime decisions.
 - [Enzai](https://enzai.ai) - Pre-built EU AI Act policy packs and audit workflows.
 
 ---
