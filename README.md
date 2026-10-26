@@ -65,11 +65,13 @@ Associate Professor, University of Niš · 50+ papers on AI systems.
 
 ## Enterprise Platforms
 
-- [Vanta](https://vanta.com) - Automated compliance platform, includes EU AI Act coverage. From ~$10K/year.
-- [Credo AI](https://credo.ai) - AI governance platform with policy packs and risk scoring.
-- [Regulativ.ai](https://regulativ.ai) - Supports 40+ compliance frameworks.
 - [Aikido Security](https://aikido.dev) - Developer-first security and compliance, includes AI system checks.
+- [Credo AI](https://credo.ai) - AI governance platform with policy packs and risk scoring.
 - [Enzai](https://enzai.ai) - Pre-built EU AI Act policy packs and audit workflows.
+- [Regulativ.ai](https://regulativ.ai) - Supports 40+ compliance frameworks.
+- [Speakeasy control plane](https://www.speakeasy.com/) - AI agent governance platform with identity-based MCP tool permissions, per-action security policies, and tool-call audit logs.
+- [Vanta](https://vanta.com) - Automated compliance platform, includes EU AI Act coverage. From ~$10K/year.
+
 
 ---
 
