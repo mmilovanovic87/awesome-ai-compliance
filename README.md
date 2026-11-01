@@ -104,6 +104,7 @@ Associate Professor, University of Niš · 50+ papers on AI systems.
 - [EU AI Act Compliance Roadmap for August 2026 Deadline](https://www.legalnodes.com/article/eu-ai-act-compliance-roadmap-for-august-2026-deadline) - LegalNodes step-by-step guide.
 - [The EU AI Act's Hidden Market](https://medium.com/@arturs.prieditis/the-eu-ai-acts-hidden-market-how-high-risk-ai-compliance-became-a-17-billion-opportunity-734cea9b41e2) - €17B market analysis.
 - [How open-source devtools get monetized](https://posthog.com/blog/open-source-business-models) - PostHog handbook on open-source business models.
+- [Chatbots and the AI Act: what to display for Article 50](https://taumin.com/en/guides/chatbot-article-50/) - Taumin guide: where to place the AI disclosure, sentences in six EU languages, checklist.
 
 ### Papers
 - [A Survey of Fairness in Machine Learning](https://arxiv.org/abs/1908.09635) - Moritz Hardt et al.
