@@ -40,6 +40,7 @@ Associate Professor, University of Niš · 50+ papers on AI systems.
 - [AI RMF Crosswalk](https://airc.nist.gov/Docs/2) - Mapping to other frameworks.
 
 ### ISO/IEC 42001
+- [AIMS Starter Kit for ISO/IEC 42001:2023](https://github.com/brivellis/aims-starter-kit-iso42001) - 16 free editable templates for an AI management system, from AI system inventory to management review, with an impact assessment, a Statement of Applicability and a fictional worked example.
 - [ISO 42001 Overview](https://www.iso.org/standard/81230.html) - AI Management System standard.
 - [ISO 42001 vs EU AI Act Mapping](https://www.enisa.europa.eu/) - Crosswalk between standards.
 
