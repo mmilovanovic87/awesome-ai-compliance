@@ -104,6 +104,7 @@ Associate Professor, University of Niš · 50+ papers on AI systems.
 - [EU AI Act Compliance Roadmap for August 2026 Deadline](https://www.legalnodes.com/article/eu-ai-act-compliance-roadmap-for-august-2026-deadline) - LegalNodes step-by-step guide.
 - [The EU AI Act's Hidden Market](https://medium.com/@arturs.prieditis/the-eu-ai-acts-hidden-market-how-high-risk-ai-compliance-became-a-17-billion-opportunity-734cea9b41e2) - €17B market analysis.
 - [How open-source devtools get monetized](https://posthog.com/blog/open-source-business-models) - PostHog handbook on open-source business models.
+- [Logging AI agent decisions for audit](https://www.hasorix.com/blog/logging-ai-agent-decisions-for-audit/) - What to log, retention and access under AI Act Articles 12, 19 and 26 and the GDPR.
 
 ### Papers
 - [A Survey of Fairness in Machine Learning](https://arxiv.org/abs/1908.09635) - Moritz Hardt et al.
