@@ -53,7 +53,7 @@ Associate Professor, University of Niš · 50+ papers on AI systems.
   [![GitHub](https://img.shields.io/github/stars/mmilovanovic87/gapsight?style=flat)](https://github.com/mmilovanovic87/gapsight)
 - [VerifyWise](https://github.com/bluewave-labs/verifywise) - Open-source AI governance platform covering EU AI Act, ISO 42001, NIST AI RMF.
 - [FRAI](https://frai.cc) - AI compliance checks with Git pre-commit hooks.
-- [AI Governance & Measurement Kit](https://github.com/olgarkadieva-byte/ai-governance-measurement-kit) - Open-source library of 34 AI controls mapped to EU AI Act, NIST AI RMF and ISO 42001, with risk scoring and EU AI Act tier screening.
+- [AI Governance Kit](https://github.com/olgarkadieva-byte/ai-governance-kit) - Open-source library of 34 AI controls mapped to EU AI Act, NIST AI RMF and ISO 42001, with risk scoring and EU AI Act tier screening.
 
 ---
 
