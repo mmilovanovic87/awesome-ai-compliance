@@ -79,6 +79,7 @@ Associate Professor, University of Niš · 50+ papers on AI systems.
 - [AI Fairness 360 (IBM)](https://aif360.mybluemix.net) - Toolkit to detect and mitigate bias in ML models.
 - [Alibi Detect](https://github.com/SeldonIO/alibi-detect) - Outlier, adversarial, and drift detection.
 - [Evidently AI](https://evidentlyai.com) - ML model monitoring and evaluation.
+- [AI Impact Measurement](https://github.com/olgarkadieva-byte/ai-impact-measurement) - Measures adoption, time saved, cost and ROI of AI tools against a control group.
 - [Deepchecks](https://deepchecks.com) - Testing and monitoring for ML models.
 - [SHAP](https://github.com/slundberg/shap) - Explainability for ML model outputs.
 - [LIME](https://github.com/marcotcr/lime) - Local interpretable model-agnostic explanations.
